@@ -1,6 +1,6 @@
-### Monte Carlo Simulation For Computational Finance 
+# Monte Carlo Simulation For Computational Finance 
 ## Srinjoy Som 
-# Topics Covered 
+### Topics Covered 
 `Monte_Carl.ipynb`
 1- Linear Congruence generator and Inverse transform method \
 2 - Generating samples from N(0 , 1 ) using BOX-Muller and Marsaglia-Bray Method \
