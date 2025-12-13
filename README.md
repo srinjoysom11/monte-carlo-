@@ -1,4 +1,4 @@
-# Monte Carlo Simulation For Computational Finance 
+# Monte Carlo Simulation  & Numerical Methods For Computational Finance 
 ## Srinjoy Som 
 ### Topics Covered 
 `Monte_Carl.ipynb`
